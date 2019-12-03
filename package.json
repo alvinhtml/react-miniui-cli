@@ -1,0 +1,29 @@
+{
+  "name": "react-miniui-cli",
+  "version": "1.0.0",
+  "description": "react-miniui-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinhtml/react-miniui-cli.git"
+  },
+  "keywords": [
+    "react",
+    "miniui",
+    "cli"
+  ],
+  "author": "alvinhtml@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvinhtml/react-miniui-cli/issues"
+  },
+  "homepage": "https://github.com/alvinhtml/react-miniui-cli#readme",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "git-clone": "^0.1.0",
+    "shelljs": "^0.8.3"
+  }
+}
